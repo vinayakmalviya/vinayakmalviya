@@ -21,7 +21,7 @@
 &nbsp;
 <a href="https://neovim.io/" title="Neovim"><img align="center" alt="Neovim" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/neovim.svg" /><code>Neovim</code></a>
 &nbsp;
-<a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/alacritty.png" /><code>Alacritty</code></a>
+<a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/alacritty.svg" /><code>Alacritty</code></a>
 &nbsp;
 <a href="https://www.zsh.org/" title="ZSH"><img align="center" alt="ZSH" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/zsh.svg" /><code>ZSH</code></a>
 &nbsp;
@@ -32,7 +32,7 @@
 ### Tech stack
 
 <b>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img align="center" alt="TypeScript" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/typescript.png" /><code>TypeScript</code></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img align="center" alt="TypeScript" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/typescript.svg" /><code>TypeScript</code></a>
 &nbsp;
 <a href="https://elixir-lang.org/" title="Elixir"><img align="center" alt="Elixir" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/elixir.svg" /><code>Elixir</code></a>
 &nbsp;
@@ -40,9 +40,9 @@
 &nbsp;
 <a href="https://reactjs.org/" title="React"><img align="center" alt="React" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/react.svg" /><code>React + React Native</code></a>
 &nbsp;
-<a href="https://phoenixframework.org/" title="Phoenix"><img align="center" alt="Phoenix" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/phoenix.png" /><code>Phoenix</code></a>
+<a href="https://phoenixframework.org/" title="Phoenix"><img align="center" alt="Phoenix" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/phoenix.svg" /><code>Phoenix</code></a>
 &nbsp;
-<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img align="center" alt="FastAPI" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/fastapi.png" /><code>FastAPI</code></a>
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img align="center" alt="FastAPI" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/fastapi.svg" /><code>FastAPI</code></a>
 &nbsp;
 <a href="https://www.docker.com/" title="Docker"><img align="center" alt="Docker" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/docker.svg" /><code>Docker</code></a>
 &nbsp;
