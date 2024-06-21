@@ -23,7 +23,7 @@
 &nbsp;
 <a href="https://github.com/alacritty/alacritty" title="Alacritty"><img align="center" alt="Alacritty" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/alacritty.svg" /><code>Alacritty</code></a>
 &nbsp;
-<a href="https://www.zsh.org/" title="ZSH"><img align="center" alt="ZSH" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/zsh.svg" /><code>ZSH</code></a>
+<a href="https://www.zsh.org/" title="ZSH"><img align="center" alt="ZSH" width="30" height="30" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/zsh.svg" /><code>ZSH</code></a>
 &nbsp;
 <a href="https://www.mozilla.org/en-US/firefox/" title="Firefox"><img align="center" alt="Firefox" width="24" height="24" src="https://github.com/vinayakmalviya/vinayakmalviya/raw/main/icons/firefox.svg" /><code>Firefox</code></a>
 &nbsp;
